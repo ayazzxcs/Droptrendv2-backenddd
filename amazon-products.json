@@ -1,0 +1,243 @@
+{
+  "updatedAt": "2026-06-05T09:35:37.972Z",
+  "source": "Rainforest Amazon API",
+  "amazonDomain": "amazon.com",
+  "keywordCount": 2,
+  "productCount": 10,
+  "signals": [
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "amazonDemandScore": 96,
+      "bestTitle": "Cicy Bell Womens Casual Blazers Open Front Long Sleeve Work Office Suit Jackets Blazer",
+      "bestAsin": "B07WD8YZ2Q",
+      "bestRating": 4,
+      "bestRatingsTotal": 22772,
+      "bestPrice": 49.99,
+      "resultCount": 5,
+      "topResults": [
+        {
+          "keyword": "Women Casual Blazers Open Front",
+          "asin": "B07WD8YZ2Q",
+          "title": "Cicy Bell Womens Casual Blazers Open Front Long Sleeve Work Office Suit Jackets Blazer",
+          "link": "https://www.amazon.com/Cicy-Bell-Womens-Jackets-Outerwear/dp/B07WD8YZ2Q/ref=sr_1_1?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-1",
+          "image": "https://m.media-amazon.com/images/I/612bZ4IE8nL._AC_UL320_.jpg",
+          "price": 49.99,
+          "rating": 4,
+          "ratingsTotal": 22772,
+          "position": 1,
+          "isPrime": false,
+          "amazonDemandScore": 96
+        },
+        {
+          "keyword": "Women Casual Blazers Open Front",
+          "asin": "B0F32R7PR3",
+          "title": "Ahlaray Women's Blazer Business Casual Lapel Collar Long Sleeve Open Front Work Office Suit Jackets Blazer, S-XL",
+          "link": "https://www.amazon.com/Ahlaray-Casual-Blazer-Jacket-Sleeve/dp/B0F32R7PR3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-2",
+          "image": "https://m.media-amazon.com/images/I/71g3WA-dDzL._AC_UL320_.jpg",
+          "price": 26.99,
+          "rating": 4,
+          "ratingsTotal": 851,
+          "position": 2,
+          "isPrime": false,
+          "amazonDemandScore": 92
+        },
+        {
+          "keyword": "Women Casual Blazers Open Front",
+          "asin": "B0DPW27RTG",
+          "title": "PRETTYGARDEN 2026 Blazers for Women Business Casual Long Sleeve Lapel Open Front Suit Jacket Work Blazer with Pockets",
+          "link": "https://www.amazon.com/PRETTYGARDEN-Blazers-Business-Casual-Pockets/dp/B0DPW27RTG/ref=sr_1_3?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-3",
+          "image": "https://m.media-amazon.com/images/I/81+JOw0w3mL._AC_UL320_.jpg",
+          "price": 45.98,
+          "rating": 4.2,
+          "ratingsTotal": 1761,
+          "position": 3,
+          "isPrime": false,
+          "amazonDemandScore": 89
+        }
+      ]
+    },
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "amazonDemandScore": 88,
+      "bestTitle": "47.2\" Large Lift Top Coffee Table,Modern High Glossy LED Coffee Tables for Living Room with Storage Drawer,White Living Room Tables for Livingroom,Dining Room,Bedroom Home Office(White)",
+      "bestAsin": "B0DQXYF335",
+      "bestRating": 4.2,
+      "bestRatingsTotal": 207,
+      "bestPrice": 148.95,
+      "resultCount": 5,
+      "topResults": [
+        {
+          "keyword": "White High Gloss LED Coffee",
+          "asin": "B0DQXYF335",
+          "title": "47.2\" Large Lift Top Coffee Table,Modern High Glossy LED Coffee Tables for Living Room with Storage Drawer,White Living Room Tables for Livingroom,Dining Room,Bedroom Home Office(White)",
+          "link": "https://www.amazon.com/Coffee-Modern-Storage-Livingroom-Bedroom/dp/B0DQXYF335/ref=sr_1_1?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-1",
+          "image": "https://m.media-amazon.com/images/I/81v33XbvQtL._AC_UL320_.jpg",
+          "price": 148.95,
+          "rating": 4.2,
+          "ratingsTotal": 207,
+          "position": 1,
+          "isPrime": false,
+          "amazonDemandScore": 88
+        },
+        {
+          "keyword": "White High Gloss LED Coffee",
+          "asin": "B0C4F6P2KW",
+          "title": "Uspeedy 47.3in Large High Glossy LED Coffee Table with 2 Storage Drawers,Black/White Modern Coffee Tables for Living Room,Living Room Tables,APP LED Lights (Black)",
+          "link": "https://www.amazon.com/Uspeedy-47-3IN-Glossy-Coffee-Furniture/dp/B0C4F6P2KW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-2",
+          "image": "https://m.media-amazon.com/images/I/71EKNXHQkkL._AC_UL320_.jpg",
+          "price": 158.95,
+          "rating": 4.4,
+          "ratingsTotal": 342,
+          "position": 2,
+          "isPrime": false,
+          "amazonDemandScore": 88
+        },
+        {
+          "keyword": "White High Gloss LED Coffee",
+          "asin": "B0FSPKR469",
+          "title": "47” High-Glossy LED Coffee Table with 2 Sliding Drawers, Living Room Storage Coffee Tables, Modern Stylish Double-Layer Center Tables with LED Lights, White",
+          "link": "https://www.amazon.com/Nordivale-High-Glossy-Sliding-Drawers-Double-Layer/dp/B0FSPKR469/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-3",
+          "image": "https://m.media-amazon.com/images/I/81wTDxonYsL._AC_UL320_.jpg",
+          "price": 161.99,
+          "rating": 4.3,
+          "ratingsTotal": 81,
+          "position": 3,
+          "isPrime": false,
+          "amazonDemandScore": 75
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "asin": "B0DQXYF335",
+      "title": "47.2\" Large Lift Top Coffee Table,Modern High Glossy LED Coffee Tables for Living Room with Storage Drawer,White Living Room Tables for Livingroom,Dining Room,Bedroom Home Office(White)",
+      "link": "https://www.amazon.com/Coffee-Modern-Storage-Livingroom-Bedroom/dp/B0DQXYF335/ref=sr_1_1?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-1",
+      "image": "https://m.media-amazon.com/images/I/81v33XbvQtL._AC_UL320_.jpg",
+      "price": 148.95,
+      "rating": 4.2,
+      "ratingsTotal": 207,
+      "position": 1,
+      "isPrime": false,
+      "amazonDemandScore": 88
+    },
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "asin": "B0C4F6P2KW",
+      "title": "Uspeedy 47.3in Large High Glossy LED Coffee Table with 2 Storage Drawers,Black/White Modern Coffee Tables for Living Room,Living Room Tables,APP LED Lights (Black)",
+      "link": "https://www.amazon.com/Uspeedy-47-3IN-Glossy-Coffee-Furniture/dp/B0C4F6P2KW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-2",
+      "image": "https://m.media-amazon.com/images/I/71EKNXHQkkL._AC_UL320_.jpg",
+      "price": 158.95,
+      "rating": 4.4,
+      "ratingsTotal": 342,
+      "position": 2,
+      "isPrime": false,
+      "amazonDemandScore": 88
+    },
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "asin": "B0FSPKR469",
+      "title": "47” High-Glossy LED Coffee Table with 2 Sliding Drawers, Living Room Storage Coffee Tables, Modern Stylish Double-Layer Center Tables with LED Lights, White",
+      "link": "https://www.amazon.com/Nordivale-High-Glossy-Sliding-Drawers-Double-Layer/dp/B0FSPKR469/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-3",
+      "image": "https://m.media-amazon.com/images/I/81wTDxonYsL._AC_UL320_.jpg",
+      "price": 161.99,
+      "rating": 4.3,
+      "ratingsTotal": 81,
+      "position": 3,
+      "isPrime": false,
+      "amazonDemandScore": 75
+    },
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "asin": "B0FFSMZ1NM",
+      "title": "MXV Modern Coffee Table, 40 Inches Coffee Tables with 16 Colors LED Lights, 2 Tier Rectangular Center Table, Large Storage Space, High Glossy Wooden Tea Table for Living Room, Bedroom, Office, White",
+      "link": "https://www.amazon.com/MXV-Modern-Rectangular-Storage-Bedroom/dp/B0FFSMZ1NM/ref=sr_1_4?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-4",
+      "image": "https://m.media-amazon.com/images/I/81ikeNhGq0L._AC_UL320_.jpg",
+      "price": 129.99,
+      "rating": 4,
+      "ratingsTotal": 126,
+      "position": 4,
+      "isPrime": false,
+      "amazonDemandScore": 72
+    },
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "asin": "B0DGPVYBHP",
+      "title": "AMERLIFE High Gloss 3 Pieces Living Room Table Set, Modern LED Coffee Table Sets of 3, 2-Tier Center Table with 2 End Side Tables, LED Lights Bedside Table Nightstands with Charging Station, White",
+      "link": "https://www.amazon.com/AMERLIFE-Bedside-Nightstands-Charging-Station/dp/B0DGPVYBHP/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hSF4uWKDsdpZ8RNyhuT2-mpObhiEcPCADTqTBpq7ISktxX-vy5IQgLz84n4ZxsBpsS_KvmpXL7O345pcLySrWmHVNRO0JpZ_xUEjAocWPpQTIPzJJDa-yHGNKgX0QGgQwMq5Mt5oAWg7LqfZtWT4bvFhOdHrHBilci9sZX4KktwylDchmW_felbs4lpHEqSmKyKjBEIxxeJxMUJ-a6bBK9LcQlZ_jMhBmViLjJigKQuyB-crgGedGHunXK2RP8LVlqhqkjd-sFkkmFKO1m9-U6XhOy0n5Ydo36QKP9VBSGg.8QAntVt5gtkUa0n7MQdR94D_egRHlaMtrdChJQd3JLY&dib_tag=se&keywords=White+High+Gloss+LED+Coffee&qid=1780652129&sr=8-5",
+      "image": "https://m.media-amazon.com/images/I/81n7joNL6WL._AC_UL320_.jpg",
+      "price": 299.99,
+      "rating": 4,
+      "ratingsTotal": 38,
+      "position": 5,
+      "isPrime": false,
+      "amazonDemandScore": 61
+    },
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "asin": "B07WD8YZ2Q",
+      "title": "Cicy Bell Womens Casual Blazers Open Front Long Sleeve Work Office Suit Jackets Blazer",
+      "link": "https://www.amazon.com/Cicy-Bell-Womens-Jackets-Outerwear/dp/B07WD8YZ2Q/ref=sr_1_1?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-1",
+      "image": "https://m.media-amazon.com/images/I/612bZ4IE8nL._AC_UL320_.jpg",
+      "price": 49.99,
+      "rating": 4,
+      "ratingsTotal": 22772,
+      "position": 1,
+      "isPrime": false,
+      "amazonDemandScore": 96
+    },
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "asin": "B0F32R7PR3",
+      "title": "Ahlaray Women's Blazer Business Casual Lapel Collar Long Sleeve Open Front Work Office Suit Jackets Blazer, S-XL",
+      "link": "https://www.amazon.com/Ahlaray-Casual-Blazer-Jacket-Sleeve/dp/B0F32R7PR3/ref=sr_1_2?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-2",
+      "image": "https://m.media-amazon.com/images/I/71g3WA-dDzL._AC_UL320_.jpg",
+      "price": 26.99,
+      "rating": 4,
+      "ratingsTotal": 851,
+      "position": 2,
+      "isPrime": false,
+      "amazonDemandScore": 92
+    },
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "asin": "B0DPW27RTG",
+      "title": "PRETTYGARDEN 2026 Blazers for Women Business Casual Long Sleeve Lapel Open Front Suit Jacket Work Blazer with Pockets",
+      "link": "https://www.amazon.com/PRETTYGARDEN-Blazers-Business-Casual-Pockets/dp/B0DPW27RTG/ref=sr_1_3?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-3",
+      "image": "https://m.media-amazon.com/images/I/81+JOw0w3mL._AC_UL320_.jpg",
+      "price": 45.98,
+      "rating": 4.2,
+      "ratingsTotal": 1761,
+      "position": 3,
+      "isPrime": false,
+      "amazonDemandScore": 89
+    },
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "asin": "B0G38ZDC65",
+      "title": "GRACE KARIN Women's 3/4 Sleeve V Neck Button Down Lightweight Cardigan Sweater Open Front Dressy Shrugs Spring Fashion",
+      "link": "https://www.amazon.com/GRACE-KARIN-Cropped-Cardigans-Lightweight/dp/B0G38ZDC65/ref=sr_1_4?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-4",
+      "image": "https://m.media-amazon.com/images/I/71soQG4zaOL._AC_UL320_.jpg",
+      "price": 14.73,
+      "rating": 4.6,
+      "ratingsTotal": 259,
+      "position": 4,
+      "isPrime": false,
+      "amazonDemandScore": 85
+    },
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "asin": "B0CP8VRQN8",
+      "title": "ELLEVEN Women's Ruched 3/4 Sleeve Blazers, Lightweight Slim Fit Jackets with Padded Shoulder for Business Casual",
+      "link": "https://www.amazon.com/ELLEVEN-Business-Lightweight-Cardigan-Shoulder/dp/B0CP8VRQN8/ref=sr_1_5?dib=eyJ2IjoiMSJ9.mCNjGf38unWcoJlcLjfc7hUOfMr3avThSd4gIxbzUaYF-1BSJ1kZBu0APoyw5YW6W3nOnMRB_3y0CcrUdhjK1S8aPJQ-t4FZpOyyOD3mvGjLdAlx7Rw9vly_p-tHGncmXOmcuYo41Hr5bnOhOgNaw-rC3dncJpzvg60r_ku6Ne8CTgZHNSUuHoK_HS2DjWcUeOEDAxEZ7U8f3Ke6D79-Uavn-OFmvUjnlLwTNhN9Ku3PNpe_CdghtIlP1puHDf6AMl4_cM0NEvunFnGZnkCXggH8MlAm9dQTN7qwf2-9cvM.pAcmHxsUGETd4ASSRX8CfMdCkd9dO2_a3Vbl_Z1_CE8&dib_tag=se&keywords=Women+Casual+Blazers+Open+Front&qid=1780652133&sr=8-5",
+      "image": "https://m.media-amazon.com/images/I/71XZQelH5eL._AC_UL320_.jpg",
+      "price": 42.69,
+      "rating": 4.3,
+      "ratingsTotal": 1340,
+      "position": 5,
+      "isPrime": false,
+      "amazonDemandScore": 81
+    }
+  ]
+}

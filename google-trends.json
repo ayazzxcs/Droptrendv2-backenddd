@@ -1,0 +1,29 @@
+{
+  "updatedAt": "2026-06-05T09:35:28.003Z",
+  "source": "SerpApi Google Trends",
+  "geo": "US",
+  "dateRange": "today 1-m",
+  "count": 2,
+  "signals": [
+    {
+      "keyword": "White High Gloss LED Coffee",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Women Casual Blazers Open Front",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    }
+  ]
+}
