@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-06-05T03:46:02.756Z",
+  "count": 6012,
+  "maxPages": 30,
+  "pageSize": 200,
+  "source": "CJdropshipping",
+  "mode": "Full CJ product list + optional CJ trending boost",
+  "normalCount": 6000,
+  "trendingCount": 12,
+  "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available."
+}
