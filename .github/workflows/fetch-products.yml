@@ -1,0 +1,47 @@
+name: Fetch Trending Products
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-products:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch CJ Products
+        run: node scripts/fetch-cj-products.js
+        env:
+          CJ_EMAIL: ${{ secrets.CJ_EMAIL }}
+          CJ_API_KEY: ${{ secrets.CJ_API_KEY }}
+
+      - name: Fetch Google Trends
+        run: node scripts/fetch-google-trends.js
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+
+      - name: Fetch Amazon Data
+        run: node scripts/fetch-amazon-products.js
+        env:
+          RAINFOREST_API_KEY: ${{ secrets.RAINFOREST_API_KEY }}
+
+      - name: Merge Trend Signals
+        run: node scripts/merge-trend-signals.js
+
+      - name: Commit Updated Products
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update products" || echo "No changes"
+          git push
