@@ -1,49 +1,8 @@
 {
-  "updatedAt": "2026-06-05T18:34:06.461Z",
+  "updatedAt": "2026-06-06T16:00:38.834Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 4,
-  "signals": [
-    {
-      "keyword": "Summer Short-sleeved Shirt Button Pullover",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "White High Gloss LED Coffee",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Three-dimensional Petal-style Strapless Floor-length Waist-cinching",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Womens Solid-Colored Short-Sleeve Casual Loose",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    }
-  ]
+  "count": 0,
+  "signals": []
 }
