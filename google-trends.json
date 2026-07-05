@@ -1,8 +1,49 @@
 {
-  "updatedAt": "2026-07-04T19:06:11.487Z",
+  "updatedAt": "2026-07-05T08:50:30.190Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 0,
-  "signals": []
+  "count": 4,
+  "signals": [
+    {
+      "keyword": "Interactive Cat Toys Ball Auto",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Mens Linen Long-sleeve Casual Breathable",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Lace Slim Fit Long Sleeve",
+      "googleTrendScore": 87,
+      "growthPercent": 148,
+      "firstAvg": 0,
+      "lastAvg": 74,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Evaporative Cooler Air Cooler Portable",
+      "googleTrendScore": 12,
+      "growthPercent": -71,
+      "firstAvg": 62,
+      "lastAvg": 18,
+      "latestValue": 12,
+      "maxValue": 100,
+      "timelinePoints": 31
+    }
+  ]
 }
