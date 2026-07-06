@@ -1,26 +1,36 @@
 {
-  "updatedAt": "2026-07-06T10:13:47.526Z",
+  "updatedAt": "2026-07-06T15:27:23.706Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
   "count": 7,
   "signals": [
     {
-      "keyword": "S925 Sterling Silver Gold Plated",
-      "googleTrendScore": 91,
+      "keyword": "Mens Linen Long-sleeve Casual Breathable",
+      "googleTrendScore": 100,
       "growthPercent": 200,
       "firstAvg": 0,
       "lastAvg": 100,
-      "latestValue": 0,
+      "latestValue": 100,
       "maxValue": 100,
       "timelinePoints": 31
     },
     {
       "keyword": "Lace Slim Fit Long Sleeve",
-      "googleTrendScore": 88,
-      "growthPercent": 153,
+      "googleTrendScore": 90,
+      "growthPercent": 164,
       "firstAvg": 0,
-      "lastAvg": 76,
+      "lastAvg": 82,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Powerbank 300w Portable Power Station",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 31
@@ -46,17 +56,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "S925 Sterling Silver 5ct Moissanite",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 79,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 31
-    },
-    {
-      "keyword": "S925 Sterling Silver 3ct D-VVS1",
+      "keyword": "Printed Neck Batwing Sleeve Bohemian",
       "googleTrendScore": 15,
       "growthPercent": -100,
       "firstAvg": 100,
@@ -68,10 +68,10 @@
     {
       "keyword": "Evaporative Cooler Air Cooler Portable",
       "googleTrendScore": 12,
-      "growthPercent": -70,
+      "growthPercent": -71,
       "firstAvg": 63,
-      "lastAvg": 19,
-      "latestValue": 14,
+      "lastAvg": 18,
+      "latestValue": 13,
       "maxValue": 100,
       "timelinePoints": 31
     }
