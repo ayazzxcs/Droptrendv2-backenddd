@@ -1,22 +1,62 @@
 {
-  "updatedAt": "2026-07-06T02:51:21.606Z",
+  "updatedAt": "2026-07-06T10:13:47.526Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 3,
+  "count": 7,
   "signals": [
     {
-      "keyword": "Lace Slim Fit Long Sleeve",
-      "googleTrendScore": 84,
-      "growthPercent": 130,
+      "keyword": "S925 Sterling Silver Gold Plated",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
       "firstAvg": 0,
-      "lastAvg": 65,
+      "lastAvg": 100,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 31
     },
     {
-      "keyword": "Women Summer Loose Casual Midi",
+      "keyword": "Lace Slim Fit Long Sleeve",
+      "googleTrendScore": 88,
+      "growthPercent": 153,
+      "firstAvg": 0,
+      "lastAvg": 76,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Womens Virgin Full Lace Front",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Business Mens 6-Hand Leather-Band Multi-Function",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "S925 Sterling Silver 5ct Moissanite",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 79,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "S925 Sterling Silver 3ct D-VVS1",
       "googleTrendScore": 15,
       "growthPercent": -100,
       "firstAvg": 100,
@@ -28,9 +68,9 @@
     {
       "keyword": "Evaporative Cooler Air Cooler Portable",
       "googleTrendScore": 12,
-      "growthPercent": -71,
-      "firstAvg": 62,
-      "lastAvg": 18,
+      "growthPercent": -70,
+      "firstAvg": 63,
+      "lastAvg": 19,
       "latestValue": 14,
       "maxValue": 100,
       "timelinePoints": 31
