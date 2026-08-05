@@ -1,12 +1,22 @@
 {
-  "updatedAt": "2026-08-05T14:03:50.696Z",
+  "updatedAt": "2026-08-05T19:27:22.714Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 5,
+  "count": 4,
   "signals": [
     {
-      "keyword": "Women Off-Shoulder Suit Long Sleeve",
+      "keyword": "Womens Solid-color Zip-front Backless Wide-leg",
+      "googleTrendScore": 100,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 100,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Ergonomic Lumbar Support Seat Cushion",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -17,40 +27,20 @@
     },
     {
       "keyword": "Leather Shoes Men Genuine Leather",
-      "googleTrendScore": 90,
-      "growthPercent": 167,
+      "googleTrendScore": 91,
+      "growthPercent": 180,
       "firstAvg": 0,
-      "lastAvg": 84,
+      "lastAvg": 90,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "Mens Stretch Quick-Drying Long-Sleeve Shirt",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Minimalist Elegant V-neck Midi Dress",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Ergonomic Lumbar Support Seat Cushion",
-      "googleTrendScore": 9,
-      "growthPercent": -90,
-      "firstAvg": 100,
-      "lastAvg": 10,
+      "keyword": "Women Retro European American Style",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
