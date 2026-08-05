@@ -1,8 +1,79 @@
 {
-  "updatedAt": "2026-08-04T19:26:44.199Z",
+  "updatedAt": "2026-08-05T02:08:37.295Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 0,
-  "signals": []
+  "count": 7,
+  "signals": [
+    {
+      "keyword": "Round-neck Layered Sweater Knitwear",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Womens Solid-color Zip-front Backless Wide-leg",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Women Square-heeled Large-size Round-toe Martin",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Hands Free Dog Leash Pet",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Plus Size Fish Mouth Wedge",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Fashionable Casual Lace-mesh Spliced Knitted",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Pullover Knit Sweater Long Sleeves",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    }
+  ]
 }
