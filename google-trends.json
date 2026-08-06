@@ -1,10 +1,40 @@
 {
-  "updatedAt": "2026-08-06T02:13:49.023Z",
+  "updatedAt": "2026-08-06T08:32:24.020Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 4,
+  "count": 8,
   "signals": [
+    {
+      "keyword": "Women Casual V-Neck Long Dress",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Ergonomic Lumbar Support Seat Cushion",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "European American-style Solid-color Sexy Floral-embossed",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
     {
       "keyword": "Ribbed Short-length Long-sleeve Top Wide-leg",
       "googleTrendScore": 91,
@@ -16,7 +46,7 @@
       "timelinePoints": 32
     },
     {
-      "keyword": "Fitted Lantern-sleeve Chanel-style Chic Top",
+      "keyword": "Dropped-shoulder Relaxed-fit Wool Trench Coat",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -28,18 +58,28 @@
     {
       "keyword": "Leather Shoes Men Genuine Leather",
       "googleTrendScore": 91,
-      "growthPercent": 200,
+      "growthPercent": 187,
       "firstAvg": 0,
-      "lastAvg": 100,
+      "lastAvg": 93,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "Autumn Winter Chic Fashion Jacket",
+      "keyword": "Men Taupe Shawl Lapel One",
       "googleTrendScore": 15,
       "growthPercent": -100,
-      "firstAvg": 97,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Minimalist Elegant Long-sleeve Jacket Mens",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
       "lastAvg": 0,
       "latestValue": 0,
       "maxValue": 100,
