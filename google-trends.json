@@ -1,56 +1,26 @@
 {
-  "updatedAt": "2026-09-05T14:31:28.235Z",
+  "updatedAt": "2026-09-05T19:54:18.002Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 5,
+  "count": 2,
   "signals": [
     {
-      "keyword": "Amandine Cream Relaxed Tailored Suit",
+      "keyword": "Cross-Border Same Price Necklace Irregular",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
       "lastAvg": 100,
       "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Crazy Horse Leather Cowhide Brown",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Men Beach Outdoor Casual Shoes",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Halloween Decoration",
-      "googleTrendScore": 49,
-      "growthPercent": 22,
-      "firstAvg": 57,
-      "lastAvg": 69,
-      "latestValue": 73,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "Laptop",
-      "googleTrendScore": 28,
-      "growthPercent": -10,
+      "googleTrendScore": 29,
+      "growthPercent": -9,
       "firstAvg": 72,
-      "lastAvg": 64,
+      "lastAvg": 65,
       "latestValue": 64,
       "maxValue": 100,
       "timelinePoints": 32
