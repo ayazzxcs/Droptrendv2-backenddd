@@ -1,8 +1,59 @@
 {
-  "updatedAt": "2026-09-04T20:13:12.750Z",
+  "updatedAt": "2026-09-05T02:45:44.008Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 0,
-  "signals": []
+  "count": 5,
+  "signals": [
+    {
+      "keyword": "2inch Modern Fluted Bar Cabinet",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "13x4 Straight Human Hair Lace",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Laptop",
+      "googleTrendScore": 15,
+      "growthPercent": -86,
+      "firstAvg": 7,
+      "lastAvg": 1,
+      "latestValue": 1,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "2inch Fluted Buffet Wine Cabinet",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Halloween Decoration",
+      "googleTrendScore": 15,
+      "growthPercent": -88,
+      "firstAvg": 9,
+      "lastAvg": 1,
+      "latestValue": 1,
+      "maxValue": 100,
+      "timelinePoints": 32
+    }
+  ]
 }
