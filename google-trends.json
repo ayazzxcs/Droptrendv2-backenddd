@@ -1,52 +1,52 @@
 {
-  "updatedAt": "2026-09-06T02:42:46.450Z",
+  "updatedAt": "2026-09-06T10:13:56.344Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
   "count": 6,
   "signals": [
     {
+      "keyword": "Men Chinese-Style Bamboo Leaf Embroidery",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Dachshund Dog Towel Embroidered Hooded",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
       "keyword": "Halloween Decoration",
       "googleTrendScore": 51,
-      "growthPercent": 23,
+      "growthPercent": 22,
       "firstAvg": 60,
       "lastAvg": 74,
-      "latestValue": 88,
+      "latestValue": 76,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
       "keyword": "Laptop",
-      "googleTrendScore": 28,
-      "growthPercent": -11,
-      "firstAvg": 71,
-      "lastAvg": 63,
-      "latestValue": 60,
+      "googleTrendScore": 38,
+      "growthPercent": -9,
+      "firstAvg": 72,
+      "lastAvg": 66,
+      "latestValue": 74,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "High-end Slightly Flared Pants",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Men Denim Jacket European American",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Men Beach Outdoor Casual Shoes",
+      "keyword": "Off-shoulder Suit Women Velvet Casual",
       "googleTrendScore": 15,
       "growthPercent": -100,
       "firstAvg": 100,
