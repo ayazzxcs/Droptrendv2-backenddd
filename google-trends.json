@@ -1,66 +1,16 @@
 {
-  "updatedAt": "2026-09-06T10:13:56.344Z",
+  "updatedAt": "2026-09-06T14:52:02.588Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 6,
+  "count": 1,
   "signals": [
     {
-      "keyword": "Men Chinese-Style Bamboo Leaf Embroidery",
+      "keyword": "Iridescent Running Shoes Fashionable Mesh",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
       "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Dachshund Dog Towel Embroidered Hooded",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Halloween Decoration",
-      "googleTrendScore": 51,
-      "growthPercent": 22,
-      "firstAvg": 60,
-      "lastAvg": 74,
-      "latestValue": 76,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Laptop",
-      "googleTrendScore": 38,
-      "growthPercent": -9,
-      "firstAvg": 72,
-      "lastAvg": 66,
-      "latestValue": 74,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Off-shoulder Suit Women Velvet Casual",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Men Black Mandarin Collar Two-Piece",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
