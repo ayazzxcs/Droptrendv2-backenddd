@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-09-06T14:52:02.588Z",
+  "updatedAt": "2026-09-06T19:56:30.759Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 1,
-  "signals": [
-    {
-      "keyword": "Iridescent Running Shoes Fashionable Mesh",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    }
-  ]
+  "count": 0,
+  "signals": []
 }

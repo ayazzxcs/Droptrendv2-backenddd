@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:51:37.843Z",
+  "updatedAt": "2026-09-06T19:56:29.671Z",
   "count": 6012,
   "maxPages": 30,
   "pageSize": 200,
@@ -8,14 +8,14 @@
   "normalCount": 6000,
   "trendingCount": 12,
   "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available.",
-  "trendEnhancedAt": "2026-09-06T14:52:03.399Z",
+  "trendEnhancedAt": "2026-09-06T19:56:31.097Z",
   "trendModel": "DropTrend v2: 40% Google Trends + 40% Amazon/Rainforest + 20% CJ supplier score",
   "sources": {
     "cj": "CJdropshipping API",
     "google": "SerpApi Google Trends",
     "amazon": "Rainforest Amazon API"
   },
-  "googleSignals": 1,
+  "googleSignals": 0,
   "amazonSignals": 0,
   "removedSources": [
     "Meta Ad Library",
