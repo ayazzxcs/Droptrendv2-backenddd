@@ -1,8 +1,39 @@
 {
-  "updatedAt": "2026-10-04T20:50:03.718Z",
+  "updatedAt": "2026-10-05T03:51:26.967Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 0,
-  "signals": []
+  "count": 3,
+  "signals": [
+    {
+      "keyword": "Foreign Trade Amazon Cross-border Women",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Turn-down Collar Fur-lined Warm Jacketcoat",
+      "googleTrendScore": 91,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    },
+    {
+      "keyword": "Versatile Fashionable Straight-leg Jeans Floral",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 31
+    }
+  ]
 }
