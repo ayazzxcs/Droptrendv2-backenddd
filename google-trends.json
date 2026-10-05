@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-05T13:30:48.917Z",
+  "updatedAt": "2026-10-05T23:41:51.038Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 6,
+  "count": 4,
   "signals": [
     {
-      "keyword": "Corduroy Hooded Sweatshirt Baby-pocket Women",
+      "keyword": "Women Brown Double-faced Mid-length Solid-color",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -16,7 +16,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Versatile Fashionable Straight-leg Jeans Floral",
+      "keyword": "Men Suits Leisure Business",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -26,7 +26,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Women Wool Coat Floral Pattern",
+      "keyword": "Outdoor Solar Panel Portable Power",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -36,31 +36,11 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Women Washed Straight Wide Leg",
+      "keyword": "Cross-Border Foreign Trade Star Patch",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
       "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 31
-    },
-    {
-      "keyword": "Womens White Lace-up Mid-top Platform",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 31
-    },
-    {
-      "keyword": "Women Casual Off-shoulder Slim-fit Dress",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 31
