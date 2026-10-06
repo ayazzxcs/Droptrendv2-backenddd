@@ -1,22 +1,12 @@
 {
-  "updatedAt": "2026-10-06T04:39:59.523Z",
+  "updatedAt": "2026-10-06T12:42:51.656Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 7,
+  "count": 6,
   "signals": [
     {
-      "keyword": "Outdoor Solar Panel Portable Power",
-      "googleTrendScore": 94,
-      "growthPercent": 137,
-      "firstAvg": 0,
-      "lastAvg": 69,
-      "latestValue": 100,
-      "maxValue": 100,
-      "timelinePoints": 31
-    },
-    {
-      "keyword": "Corduroy Hooded Sweatshirt Baby-pocket Women",
+      "keyword": "Women Loose Cotton Coat Faux",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -26,7 +16,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Women Brown Double-faced Mid-length Solid-color",
+      "keyword": "Popular American Retro Cleanfit High",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -36,7 +26,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Low-cut Rabbit-fur-lined Mid-calf Boots",
+      "keyword": "Portable Dog Water Bottle 285ml",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -46,7 +36,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Cross-Border Foreign Trade Star Patch",
+      "keyword": "Women Washed Straight Wide Leg",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -56,7 +46,7 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Fashionable Slim-fit Drawstring Blazer Flared",
+      "keyword": "Fallwinter Versatile High-heeled Slim Boots",
       "googleTrendScore": 15,
       "growthPercent": -100,
       "firstAvg": 100,
@@ -66,11 +56,11 @@
       "timelinePoints": 31
     },
     {
-      "keyword": "Foreign Trade Amazon Cross-border Women",
-      "googleTrendScore": 8,
-      "growthPercent": -94,
+      "keyword": "Cross-Border Halloween Pumpkin Inflatable Models",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
       "firstAvg": 100,
-      "lastAvg": 6,
+      "lastAvg": 0,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 31
