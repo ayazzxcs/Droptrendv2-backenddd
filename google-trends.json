@@ -1,39 +1,8 @@
 {
-  "updatedAt": "2026-10-07T04:04:21.523Z",
+  "updatedAt": "2026-10-07T12:34:37.234Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 3,
-  "signals": [
-    {
-      "keyword": "Suede Long Sleeve Zip Jacket",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 31
-    },
-    {
-      "keyword": "Fleece Zip-Up Jacket Women Stand",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 31
-    },
-    {
-      "keyword": "High-quality Handmade Fashionable Leather Shoes",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 31
-    }
-  ]
+  "count": 0,
+  "signals": []
 }
