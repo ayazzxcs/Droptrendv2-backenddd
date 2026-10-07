@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T22:15:23.131Z",
+  "updatedAt": "2026-10-07T04:03:46.831Z",
   "count": 6011,
   "maxPages": 30,
   "pageSize": 200,
@@ -8,7 +8,7 @@
   "normalCount": 6000,
   "trendingCount": 11,
   "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available.",
-  "trendEnhancedAt": "2026-10-06T22:16:59.034Z",
+  "trendEnhancedAt": "2026-10-07T04:04:22.883Z",
   "trendModel": "DropTrend v2: 40% Google Trends + 40% Amazon/Rainforest + 20% CJ supplier score",
   "sources": {
     "cj": "CJdropshipping API",
