@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T04:16:26.550Z",
-  "count": 6011,
+  "updatedAt": "2026-10-08T12:44:23.379Z",
+  "count": 6012,
   "maxPages": 30,
   "pageSize": 200,
   "source": "CJdropshipping",
   "mode": "Full CJ product list + optional CJ trending boost; Google Trends and Amazon trend scoring added after this step",
   "normalCount": 6000,
-  "trendingCount": 11,
+  "trendingCount": 12,
   "note": "CJ trending endpoint can return a small number of products; full product list is used for scale and trending products are boosted when available.",
-  "trendEnhancedAt": "2026-10-08T04:16:30.618Z",
+  "trendEnhancedAt": "2026-10-08T12:44:27.874Z",
   "trendModel": "DropTrend v2: 40% Google Trends + 40% Amazon/Rainforest + 20% CJ supplier score",
   "sources": {
     "cj": "CJdropshipping API",
