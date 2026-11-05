@@ -1,24 +1,14 @@
 {
-  "updatedAt": "2026-11-05T04:56:45.017Z",
+  "updatedAt": "2026-11-05T13:58:09.163Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 11,
+  "count": 3,
   "signals": [
     {
-      "keyword": "Men Vintage Ripped Straight-leg Jeans",
+      "keyword": "7FT Pre-Lit Artificial Christmas Tree",
       "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Iced Out Leopard Head Moissanite",
-      "googleTrendScore": 91,
-      "growthPercent": 174,
+      "growthPercent": 173,
       "firstAvg": 0,
       "lastAvg": 87,
       "latestValue": 0,
@@ -26,47 +16,7 @@
       "timelinePoints": 32
     },
     {
-      "keyword": "Automatic dog ball launcher dog",
-      "googleTrendScore": 87,
-      "growthPercent": 149,
-      "firstAvg": 0,
-      "lastAvg": 74,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "7FT Pre-Lit Artificial Christmas Tree",
-      "googleTrendScore": 87,
-      "growthPercent": 147,
-      "firstAvg": 0,
-      "lastAvg": 74,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Lift Top Coffee Table Hidden",
-      "googleTrendScore": 83,
-      "growthPercent": 125,
-      "firstAvg": 0,
-      "lastAvg": 63,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Christmas Advent Calendar",
-      "googleTrendScore": 55,
-      "growthPercent": 40,
-      "firstAvg": 44,
-      "lastAvg": 62,
-      "latestValue": 100,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Basic High-waisted Wide-leg Jeans",
+      "keyword": "Trolley Case 20in 24in 28in",
       "googleTrendScore": 15,
       "growthPercent": -100,
       "firstAvg": 100,
@@ -76,41 +26,11 @@
       "timelinePoints": 32
     },
     {
-      "keyword": "Fashion Twisted Knitted Sweater Solid",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
+      "keyword": "Large Capacity Women All-match Shoulder",
+      "googleTrendScore": 8,
+      "growthPercent": -94,
       "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Fashionable Lapel Plush Jacket Casual",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Irregular Long-sleeve Waist-cinching T-shirt Top",
-      "googleTrendScore": 15,
-      "growthPercent": -100,
-      "firstAvg": 100,
-      "lastAvg": 0,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Burner Propane Gas Grill Side",
-      "googleTrendScore": 11,
-      "growthPercent": -86,
-      "firstAvg": 100,
-      "lastAvg": 14,
+      "lastAvg": 6,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
