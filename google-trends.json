@@ -1,12 +1,22 @@
 {
-  "updatedAt": "2026-11-06T04:56:02.521Z",
+  "updatedAt": "2026-11-06T13:42:34.018Z",
   "source": "SerpApi Google Trends",
   "geo": "US",
   "dateRange": "today 1-m",
-  "count": 5,
+  "count": 7,
   "signals": [
     {
-      "keyword": "Basic High-waisted Wide-leg Jeans",
+      "keyword": "Natural Light Green Hetian Jade",
+      "googleTrendScore": 100,
+      "growthPercent": 200,
+      "firstAvg": 0,
+      "lastAvg": 100,
+      "latestValue": 100,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Sweatshirt Dress Women Long Sleeve",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -16,7 +26,7 @@
       "timelinePoints": 32
     },
     {
-      "keyword": "Vintage Leaf Oval Moissanite Ring",
+      "keyword": "Men Genuine Leather Martin Boots",
       "googleTrendScore": 91,
       "growthPercent": 200,
       "firstAvg": 0,
@@ -26,31 +36,41 @@
       "timelinePoints": 32
     },
     {
-      "keyword": "Mid-top Carved Casual Vintage Single",
-      "googleTrendScore": 91,
-      "growthPercent": 200,
-      "firstAvg": 0,
-      "lastAvg": 100,
-      "latestValue": 0,
+      "keyword": "Long Sleeve",
+      "googleTrendScore": 46,
+      "growthPercent": 2,
+      "firstAvg": 85,
+      "lastAvg": 86,
+      "latestValue": 89,
       "maxValue": 100,
       "timelinePoints": 32
     },
     {
-      "keyword": "7FT Pre-Lit Artificial Christmas Tree",
-      "googleTrendScore": 85,
-      "growthPercent": 137,
-      "firstAvg": 0,
-      "lastAvg": 69,
-      "latestValue": 0,
-      "maxValue": 100,
-      "timelinePoints": 32
-    },
-    {
-      "keyword": "Irregular Long-sleeve Waist-cinching T-shirt Top",
+      "keyword": "Men Casual Business Mid-to-high-rise Dress",
       "googleTrendScore": 15,
       "growthPercent": -100,
       "firstAvg": 100,
       "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Baishengniu Waterproof Quartz Watch Unisex",
+      "googleTrendScore": 15,
+      "growthPercent": -100,
+      "firstAvg": 100,
+      "lastAvg": 0,
+      "latestValue": 0,
+      "maxValue": 100,
+      "timelinePoints": 32
+    },
+    {
+      "keyword": "Christmas Tree Metal Stand Xmas",
+      "googleTrendScore": 8,
+      "growthPercent": -96,
+      "firstAvg": 100,
+      "lastAvg": 4,
       "latestValue": 0,
       "maxValue": 100,
       "timelinePoints": 32
