@@ -22,7 +22,8 @@
   "categoryId": "F34292A3-2774-4380-9ADF-78F90AB90863",
   "sourceFrom": "0",
   "shippingCountryCodes": [
-    "CN"
+    "CN",
+    "CN_US"
   ],
   "threeCategoryName": null,
   "twoCategoryId": null,
